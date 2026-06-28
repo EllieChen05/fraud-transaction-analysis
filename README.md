@@ -45,9 +45,9 @@ This dataset is synthetic and used for educational and portfolio purposes only.
 - PowerPoint
 
 ## Files
-- `Fraud_Analysis_Final_Clean.ipynb` — Python notebook
-- `Fraud_Analysis_Presentation.pdf` — PDF version of presentation
-- `data/` — Dataset
+- `Fraud_Analysis_Su.ipynb` — Python notebook
+- `Fraud_Analysis_Su_pdf` — PDF version of presentation
+- `synthetic_fraud_dataset.xlsx/` — Dataset
 
 ## Limitations
 This project uses a synthetic dataset. Real-world fraud data may be noisier and may require stronger validation, leakage checks and monitoring over time.
